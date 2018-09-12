@@ -1,2 +1,2 @@
 # To-do-list-app
-App where you can list your to-do's.
+A small app for daily use, where you can put your daily targets and never forget what you need to do.
